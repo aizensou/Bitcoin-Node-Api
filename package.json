@@ -11,7 +11,7 @@
 
 	"dependencies":{
 		"express": "3.3.x",
-		"bitcoin": "1.7.0"
+		"bitcoin": "3.0.1"
 	},
 
 	"keywords": [
